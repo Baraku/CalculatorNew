@@ -104,8 +104,8 @@
 			isa = PBXGroup;
 			children = (
 				0ACB22CC1B067420003D0D81 /* CalculatorNewTests.swift */,
-				0ACB22CA1B067420003D0D81 /* Supporting Files */,
 				0A6B5B1D1C2B4D6D00BC6734 /* CalculatorBrainTest.swift */,
+				0ACB22CA1B067420003D0D81 /* Supporting Files */,
 			);
 			path = CalculatorNewTests;
 			sourceTree = "<group>";
