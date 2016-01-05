@@ -15,6 +15,7 @@
 		0ACB22BE1B067420003D0D81 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ACB22BD1B067420003D0D81 /* Images.xcassets */; };
 		0ACB22C11B067420003D0D81 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0ACB22BF1B067420003D0D81 /* LaunchScreen.xib */; };
 		0ACB22CD1B067420003D0D81 /* CalculatorNewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACB22CC1B067420003D0D81 /* CalculatorNewTests.swift */; };
+		A6FB01821C3BF91F004B8848 /* ExportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6FB01811C3BF91F004B8848 /* ExportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		0ACB22C61B067420003D0D81 /* CalculatorNewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorNewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ACB22CB1B067420003D0D81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0ACB22CC1B067420003D0D81 /* CalculatorNewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorNewTests.swift; sourceTree = "<group>"; };
+		A6FB01811C3BF91F004B8848 /* ExportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				0ACB22BD1B067420003D0D81 /* Images.xcassets */,
 				0ACB22BF1B067420003D0D81 /* LaunchScreen.xib */,
 				0ACB22B51B067420003D0D81 /* Info.plist */,
+				A6FB01811C3BF91F004B8848 /* ExportOptions.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				0ACB22BC1B067420003D0D81 /* Main.storyboard in Resources */,
 				0ACB22C11B067420003D0D81 /* LaunchScreen.xib in Resources */,
 				0ACB22BE1B067420003D0D81 /* Images.xcassets in Resources */,
+				A6FB01821C3BF91F004B8848 /* ExportOptions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
